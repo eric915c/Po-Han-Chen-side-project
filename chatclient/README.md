@@ -1,7 +1,25 @@
-# CSC 413 - Project Three - Chat Client
+# Chat Client
 
-## Student Name  : Student Name
+A JavaFX-based chat client developed for CSC 413.
 
-## Student ID    : Student ID
+## Features
 
-## Student Email : Student Email
+- User login interface
+- Chat room listing
+- Local Demo Mode
+- Mock users and messages
+- Send messages locally
+- Leave room and logout
+
+## Technologies
+
+- Java
+- JavaFX
+- Gradle
+- WebSocket
+- Gson
+
+## Local Demo Mode
+
+The application can run without the original course server.
+Users can log in with any username and test the chat room features locally.
