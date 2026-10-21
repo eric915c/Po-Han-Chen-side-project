@@ -44,5 +44,4 @@ node server317.js
 
 Open <http://localhost:3000> in a browser.
 
-The project was originally completed as a course group assignment. The PDF
-writeups are included as project documentation.
+The project was originally completed as a course group assignment.
